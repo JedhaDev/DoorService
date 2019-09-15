@@ -13,5 +13,3 @@ every client need to clic "Connect" button, after a click 2 process are executed
 and second start to download from the DB all configured doors
 everytime that someone click a door image, the door status is changed.
 
-Kind Regards
-Ricardo
