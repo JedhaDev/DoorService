@@ -1,0 +1,12 @@
+D:\code\windows\library\WCF\DoorStatus\DoorStatus\DoorRepository\bin\Debug\Repository.dll.config
+D:\code\windows\library\WCF\DoorStatus\DoorStatus\DoorRepository\bin\Debug\Repository.dll
+D:\code\windows\library\WCF\DoorStatus\DoorStatus\DoorRepository\bin\Debug\Repository.pdb
+D:\code\windows\library\WCF\DoorStatus\DoorStatus\DoorRepository\bin\Debug\EntityFramework.dll
+D:\code\windows\library\WCF\DoorStatus\DoorStatus\DoorRepository\bin\Debug\EntityFramework.SqlServer.dll
+D:\code\windows\library\WCF\DoorStatus\DoorStatus\DoorRepository\bin\Debug\EntityFramework.xml
+D:\code\windows\library\WCF\DoorStatus\DoorStatus\DoorRepository\bin\Debug\EntityFramework.SqlServer.xml
+D:\code\windows\library\WCF\DoorStatus\DoorStatus\DoorRepository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+D:\code\windows\library\WCF\DoorStatus\DoorStatus\DoorRepository\obj\Debug\Repository.csproj.CopyComplete
+D:\code\windows\library\WCF\DoorStatus\DoorStatus\DoorRepository\obj\Debug\Repository.dll
+D:\code\windows\library\WCF\DoorStatus\DoorStatus\DoorRepository\obj\Debug\Repository.pdb
+D:\code\windows\library\WCF\DoorStatus\DoorStatus\DoorRepository\obj\Debug\Repository.csprojAssemblyReference.cache
