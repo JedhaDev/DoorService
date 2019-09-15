@@ -1,4 +1,4 @@
-<h2>MVVM implementation in WPF, using WCF for TCP communication and Entity Framework for DB access</h>
+MVVM implementation in WPF, using WCF for TCP communication and Entity Framework for DB access
 
 DoorService => Implementation of WCF using tcpip protocol, hosted in their own consol application
 DoorClient  => Implementation of WCF Client using WPF
