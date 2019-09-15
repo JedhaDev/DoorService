@@ -9,7 +9,7 @@ all was tested locally in one computer, in order to work in multiples computers,
 Unit tests are not included, but can be done upon request.
 
 DoorClient functionality:
-every client need to clic "Connect" button, after a click 2 process are executed, first the login itself, informing others instaces that a new client is connected, 
+every client need to click "Connect" button, after a click 2 process are executed, first the login itself, informing others instaces that a new client is connected, 
 and second start to download from the DB all configured doors
 everytime that someone click a door image, the door status is changed.
 
